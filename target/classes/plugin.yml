@@ -1,0 +1,4 @@
+name: laccuracy
+version: '1.0-SNAPSHOT'
+main: com.grablins.laccuracy.Laccuracy
+api-version: '1.21'
