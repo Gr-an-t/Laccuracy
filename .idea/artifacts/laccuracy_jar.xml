@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="laccuracy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/laccuracy_jar</output-path>
+    <root id="archive" name="laccuracy.jar">
+      <element id="module-output" name="laccuracy" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/2.2.0-Beta1/kotlin-stdlib-jdk8-2.2.0-Beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.2.0-Beta1/kotlin-stdlib-jdk7-2.2.0-Beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.2.0-Beta1/kotlin-stdlib-2.2.0-Beta1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
