@@ -1,1 +1,2 @@
-inaccuracy: 0.2
+accuracy:
+  skeleton: 0.2
