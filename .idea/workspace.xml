@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a51fd5e-a782-4199-9b8b-8433897a6a77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/artifacts/laccuracy_jar/laccuracy.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/laccuracy_jar/laccuracy.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/grablins/laccuracy/SkeletonShootListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/grablins/laccuracy/SkeletonShootListener.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grablins/laccuracy/SkeletonShootListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grablins/laccuracy/SkeletonShootListener.class" afterDir="false" />
-    </list>
+    <list default="true" id="6a51fd5e-a782-4199-9b8b-8433897a6a77" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +38,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "last_opened_file_path": "C:/Users/grant/IdeaProjects/laccuracy",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>

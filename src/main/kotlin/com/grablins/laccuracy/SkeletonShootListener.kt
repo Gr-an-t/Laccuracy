@@ -20,5 +20,6 @@ class SkeletonShootListener(private val inaccuracy: Double) : Listener {
             (Math.random() - 0.5) * inaccuracy,
             (Math.random() - 0.5) * inaccuracy
         )
+        arrow.velocity = velocity.add(randomOffset)
     }
 }
