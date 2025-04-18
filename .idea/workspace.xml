@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="laccuracy:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a51fd5e-a782-4199-9b8b-8433897a6a77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/out/artifacts/laccuracy_jar/laccuracy.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/laccuracy_jar/laccuracy.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/grablins/laccuracy/SkeletonShootListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/grablins/laccuracy/SkeletonShootListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/grablins/laccuracy/SkeletonShootListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grablins/laccuracy/SkeletonShootListener.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2vrmUrGnAfMjer7p1IiVACqckGE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="mcdev-temp-root" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a51fd5e-a782-4199-9b8b-8433897a6a77" name="Changes" comment="" />
+      <created>1744911586184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744911586184</updated>
+    </task>
+    <servers />
+  </component>
+</project>
