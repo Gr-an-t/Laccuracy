@@ -1,2 +1,6 @@
 accuracy:
   skeleton: 0.2
+  ghast: 0.2
+  pillager: 0.2
+  blaze: 0.2
+  drowned: 0.2
