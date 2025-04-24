@@ -4,3 +4,10 @@ accuracy:
   pillager: 0.2
   blaze: 0.2
   drowned: 0.2
+  bogged: 0.2
+  piglin: 0.2
+  stray: 0.2
+  witch: 0.2
+  wither_skeleton: 0.2
+  end_dragon: 0.2
+  breeze: 0.2
